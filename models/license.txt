@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tiger walk error
+* source:	https://sketchfab.com/3d-models/tiger-walk-error-6812bf2c9a47488a8ef249ea08eda67c
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tiger walk error" (https://sketchfab.com/3d-models/tiger-walk-error-6812bf2c9a47488a8ef249ea08eda67c) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
